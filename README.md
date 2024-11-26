@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ### Download Models 
-DreamRunner is implemented using CogVideoX-2B. You can download it [here](/https://huggingface.co/THUDM/CogVideoX-2b) and put it to `pretrained_models/CogVideoX-2b`.
+DreamRunner is implemented using CogVideoX-2B. You can download it [here](https://huggingface.co/THUDM/CogVideoX-2b) and put it to `pretrained_models/CogVideoX-2b`.
 
 ## Running the Code
 
