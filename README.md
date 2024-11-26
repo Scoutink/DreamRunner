@@ -58,6 +58,6 @@ If you find our project useful in your research, please cite the following paper
     title  = {DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation},
 	journal   = {arxiv},
 	year      = {2024},
-	url       = {https://arxiv.org/abs/2411...}
+	url       = {https://arxiv.org/abs/2411.16657}
 }
 ```
